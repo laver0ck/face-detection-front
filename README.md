@@ -3,4 +3,6 @@ Built with React.
 
 Backend: https://github.com/laver0ck/face-detecion
 
+Deployed app: https://face-smart-detect.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
